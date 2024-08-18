@@ -1,0 +1,1 @@
+Epoch,Train Loss,Train Accuracy,Validation Loss,Validation Accuracy,Train Class 0,Train Class 1,Train Class 2,Validation Class 0,Validation Class 1,Validation Class 2

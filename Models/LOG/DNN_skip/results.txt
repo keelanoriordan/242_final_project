@@ -1,0 +1,2 @@
+Epoch,Train Loss,Train Accuracy,Validation Loss,Validation Accuracy,Train Class 0,Train Class 1,Validation Class 0,Validation Class 1
+1,0.8452384973687734,0.4583625732527839,0.8695250430302314,0.4429239760086551,0.0,1.0,0.0,1.0

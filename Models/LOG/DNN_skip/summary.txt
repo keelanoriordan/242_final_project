@@ -1,0 +1,3 @@
+Training Dataset: /Users/keelanoriordan/Desktop/GitHub_MacPro.nosync/242-Final-Project/DATASET/nuc/single_rater.pkl
+Model Hyperparameters: Optimizer = adam, Learning Rate = 0.001, Batch Size = 512, epoch = 300, l2 norm = 0.0001, block connection = [True, False, True, False], block configuration = (6, 8, 8, 12), Growth Rate = 64, Drop Rate = 0.4, Step Size = 1, Gamma = 0.99
+Class Map: {'healthy': '[1. 0.]', 'tumor': '[0. 1.]'}
